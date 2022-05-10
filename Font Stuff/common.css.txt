@@ -1,0 +1,6 @@
+* { font-family: "Carton Six"; }
+.mw-body h1,
+.mw-body-content h1,
+.mw-body-content h2 { font-family: "Carton Six"; }
+
+/* Replace this with any Font you want, I have the Hello Neighbor font set to it currently (it looks awful) */
